@@ -4,7 +4,7 @@ A python short code generator using predefined string and size . uses basiacally
 It is already at <a href="https://pypi.python.org/pypi?:action=display&name=pyshort&version=0.1">PyPi</a>
 so just <code>pip install pyshort</code>
 # Usage
-<code>
+```python
 import pyshort as ps
 print(ps.short())
 # define size
@@ -14,5 +14,5 @@ code = 'abcdefghijklmnop'
 print(ps.short(code=code))
 # define extra
 print(ps.short(extra_string='@!#$%^&'))
-</code>
+```
 # That's it ...
