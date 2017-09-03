@@ -1,7 +1,7 @@
 # pyshort
 A python short code generator using predefined string and size . uses basiacally the random and string modules of python . 
 # How to install
-It is already at <a href="https://pypi.python.org/pypi?:action=display&name=pyshort&version=0.1">PyPi</a>
+It is already at <a href="https://pypi.python.org/pypi?:action=display&name=pyshort&version=1.0">PyPi</a>
 so just <code>pip install pyshort</code>
 # Usage
 ```python
